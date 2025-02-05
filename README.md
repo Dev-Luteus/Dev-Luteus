@@ -31,11 +31,13 @@ Here's a techstack of tools I'm most familiar with!
   <img src="https://img.shields.io/badge/Ren'Py-7F37C1?style=flat-square&logo=renpy&logoColor=white" height="30" />
 </p>
 
+<!--
 ### Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Luteus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Luteus&layout=compact&langs_count=7&theme=radical"/>
 </div>
+-->
 
 ### Collecting Contributions...
 <div align="center">
