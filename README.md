@@ -16,7 +16,7 @@ My name is Emil. I'm a social, passionate and driven game developer and game pro
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emil-m-661824164/)
 
 ### Techstack  
-Here's a techstack of tools I'm most familiar with! 
+Here's a techstack of tools and languages I'm most familiar with! 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" height="30" />&nbsp;
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" height="30" />&nbsp;
