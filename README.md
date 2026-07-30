@@ -4,7 +4,7 @@
   </h1>
 </div>
 
-My name is Emil. I'm a social, passionate and driven game developer and game programmer student who started making small games and prototypes as a hobby primarily around 2016. I'm primarily familiar with C, C++ and C# or other OOP / procedural languages and try to focus a lot on clean code, separation of concerns, solid principles, OCP and other general code architecture- and my burning love for games!
+Hello! My name is Emil. I'm a social, passionate and driven game developer and game programmer student who started making small games and prototypes as a hobby primarily around 2016. I'm primarily familiar with C, C++ and C# or other OOP / procedural languages and try to focus a lot on clean code, separation of concerns, solid principles, and other general code architecture; with an endlessly burning love and passion for games!
 
 <div align="left">
   
