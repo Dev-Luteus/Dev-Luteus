@@ -35,6 +35,11 @@ Here's a techstack of tools and languages I'm most familiar with!
   <img src="https://img.shields.io/badge/DirectX%2011-0078D6?style=flat-square&logo=windows&logoColor=white" height="30" />&nbsp;
   <img src="https://img.shields.io/badge/HLSL-5C2D91?style=flat-square&logo=microsoft&logoColor=white" height="30" />&nbsp;
   <img src="https://img.shields.io/badge/Premake-FF6C37?style=flat-square&logo=lua&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/YouTrack-000000?style=flat-square&logo=youtrack&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=flat-square&logo=github&logoColor=white" height="30" />&nbsp;
 </p>
 
 <!--
