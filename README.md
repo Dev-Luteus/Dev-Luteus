@@ -32,6 +32,9 @@ Here's a techstack of tools and languages I'm most familiar with!
   <img src="https://img.shields.io/badge/Tiled-5D4037?style=flat-square&logo=tiled&logoColor=white" height="30" />&nbsp;
   <img src="https://img.shields.io/badge/Twine%20Engine-FF63A5?style=flat-square&logo=twine&logoColor=white" height="30" />&nbsp;
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/DirectX%2011-0078D6?style=flat-square&logo=windows&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/HLSL-5C2D91?style=flat-square&logo=microsoft&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/Premake-FF6C37?style=flat-square&logo=lua&logoColor=white" height="30" />&nbsp;
 </p>
 
 <!--
