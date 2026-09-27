@@ -16,30 +16,38 @@ Hello! My name is Emil. I'm a social, passionate and driven game developer and g
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emil-m-661824164/)
 
 ### Techstack  
-Here's a techstack of tools and languages I'm most familiar with! 
+Here's a techstack of tools and languages I frequently use or is most familiar with! 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" height="30" />&nbsp;
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" height="30" />&nbsp;
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="30" />&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="30" />&nbsp;
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot&logoColor=white" height="30" />&nbsp;
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" height="30" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="30" />&nbsp;
-  <img src="https://img.shields.io/badge/JetBrains%20CLion-000000?style=flat-square&logo=jetbrains&logoColor=white" height="30" />&nbsp;
-  <img src="https://img.shields.io/badge/JetBrains%20Rider-000000?style=flat-square&logo=jetbrains&logoColor=white" height="30" />&nbsp;
-  <img src="https://img.shields.io/badge/Raylib-33BBFF?style=flat-square&logo=raylib&logoColor=white" height="30" />&nbsp;
-  <img src="https://img.shields.io/badge/Ren'Py-7F37C1?style=flat-square&logo=renpy&logoColor=white" height="30" />&nbsp;
-  <img src="https://img.shields.io/badge/Tiled-5D4037?style=flat-square&logo=tiled&logoColor=white" height="30" />&nbsp;
-  <img src="https://img.shields.io/badge/Twine%20Engine-FF63A5?style=flat-square&logo=twine&logoColor=white" height="30" />&nbsp;
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/DirectX%2011-0078D6?style=flat-square&logo=windows&logoColor=white" height="30" />&nbsp;
-  <img src="https://img.shields.io/badge/HLSL-5C2D91?style=flat-square&logo=microsoft&logoColor=white" height="30" />&nbsp;
-  <img src="https://img.shields.io/badge/Premake-FF6C37?style=flat-square&logo=lua&logoColor=white" height="30" />&nbsp;
-  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white" height="30" />&nbsp;
-  <img src="https://img.shields.io/badge/YouTrack-000000?style=flat-square&logo=youtrack&logoColor=white" height="30" />&nbsp;
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" height="30" />&nbsp;
-  <img src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white" height="30" />&nbsp;
-  <img src="https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=flat-square&logo=github&logoColor=white" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/DirectX%2011-0078D6?style=flat-square&logo=windows&logoColor=white" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/HLSL-5C2D91?style=flat-square&logo=microsoft&logoColor=white" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/RenderDoc-CC0000?style=flat-square&logo=renderdoc&logoColor=white" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/Dear%20ImGui-1A1A1A?style=flat-square&logo=imgui&logoColor=white" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/Premake-FF6C37?style=flat-square&logo=lua&logoColor=white" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=flat-square&logo=github&logoColor=white" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot&logoColor=white" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/Raylib-33BBFF?style=flat-square&logo=raylib&logoColor=white" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/YouTrack-000000?style=flat-square&logo=youtrack&logoColor=white" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/JetBrains%20CLion-000000?style=flat-square&logo=jetbrains&logoColor=white" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/JetBrains%20Rider-000000?style=flat-square&logo=jetbrains&logoColor=white" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white" height="32" />&nbsp;
+</p>
+
+Here's a techstack of tools and languages I've experimented with or have used in the past but do not frequent:
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/Ren'Py-7F37C1?style=flat-square&logo=renpy&logoColor=white" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/Tiled-5D4037?style=flat-square&logo=tiled&logoColor=white" height="32" />&nbsp;
+  <img src="https://img.shields.io/badge/Twine%20Engine-FF63A5?style=flat-square&logo=twine&logoColor=white" height="32" />&nbsp;
 </p>
 
 <!--
